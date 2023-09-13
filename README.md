@@ -1,19 +1,6 @@
 # todolist
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Excited to share my latest Flutter project: a versatile note-taking app! Users can seamlessly add, edit, and delete notes, all while enjoying the option to customize themes. Data is securely stored on the user's device, ensuring privacy. 🚀📝
